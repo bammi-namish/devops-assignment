@@ -1,12 +1,12 @@
 # README
 
-**Provision Google Kubernetes Engine (GKE) cluster using Terraform
+**Provision Google Kubernetes Engine (GKE) cluster using Terraform**
 
 1) Clone the repo locally
 2) cd devops-assignment/terraform-gke
 3) Run terraform init;terraform plan;terraform apply
 
-* terraform.tfstate will be stored in Cloud Storage bucket (bucket_namish)
+Note: terraform.tfstate will be stored in Cloud Storage bucket (bucket_namish)
 
 
 **Deploy Cluster Workloads**
